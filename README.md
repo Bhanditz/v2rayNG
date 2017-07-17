@@ -1,5 +1,5 @@
 # v2rayNG
-v2ray core Android，为新手提供友好的图形用户界面
+v2ray Android UI，为新手提供友好的图形用户界面
 
 fork from https://github.com/V2Ray-Android/Actinium  
 原版Actinium还是以googleplay的为准  

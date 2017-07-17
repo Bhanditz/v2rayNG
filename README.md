@@ -1,4 +1,6 @@
 # v2rayNG
+v2ray core Android，为新手提供友好的图形用户界面
+
 fork from https://github.com/V2Ray-Android/Actinium  
 原版Actinium还是以googleplay的为准  
 
@@ -15,3 +17,9 @@ https://github.com/v2ray/v2rayN
   
 下面页面可以生成配置二维码  
 https://v.414414.xyz/  
+
+project v2ray详情  
+https://github.com/v2ray/v2ray-core
+
+用户手册  
+https://www.v2ray.com/
